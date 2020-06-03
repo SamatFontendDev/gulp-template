@@ -1,0 +1,8 @@
+@media screen and (max-width: 1024px) {
+    body{
+        background: #000;
+    }
+    h1{
+        font-size: 45px;
+    }
+}
